@@ -1,0 +1,127 @@
+<style>
+
+*{
+box-sizing: border-box;
+}
+
+html{}
+body{}
+
+/*Editing of Navbar */
+
+.navbar,.footer{
+background-color: #62AACF;
+border-color: #499cc7;    
+padding-top: 0;       /* This removes nav-items top and bottom gap */
+padding-bottom: 0;    
+}
+
+.navbar-brand,.nav-item,.footer{
+color: #ffffff;
+font-family: bellota,sans-serif;    
+font-size: 1.25rem;    
+font-weight: 700;    
+}
+
+.nav-link{
+padding-top: 15px;
+padding-bottom: 15px;    
+}
+
+.navbar-nav .nav-item .nav-link:hover,
+.navbar-nav .nav-item .nav-link:active,.active{
+background-color: #167baf;
+color: lightgray;    
+}
+/*Editing of Lead Jumbotron Text*/
+.lead{
+font-weight: 500;
+font-size: 1.75rem;
+letter-spacing: 2.5px;    
+}
+
+.jumbotron{
+background-color: transparent;
+margin-top: 150px;
+padding: 10px;    
+}
+
+.signup-btn{
+background-color: rgba(92, 184, 92, 0.8);    
+}
+
+.signup-btn:hover{
+background-color: rgb(92, 184, 92);
+}
+
+/*Footer Edit*/
+.footer{
+position: fixed;
+bottom: 0;
+left: 0;        
+padding-top: 5px;     
+}
+
+/*Notes Container */    /*Profile Container*/
+.Notes-container{
+margin-top: 200px;    
+}
+
+.profile-Container{
+margin-top: 150px;
+}
+
+.buttons button,.table td{
+color: #ffffff;
+font-family: bellota,sans-serif;    
+font-size: 1.25rem;    
+font-weight: 700;    
+}
+
+/*text area */
+
+textarea{
+font-size: 1rem;
+line-height: 1rem;
+border-left: 20px solid #CA3DD9;    
+color: #CA3DD9;    
+background-color: #FBEFFF;
+padding: 10px;
+font-family: bellota,sans-serif;
+}
+
+#allNotes,#done,#notepad,.delete{
+display: none;
+}
+
+h2,.table td{
+font-family: bellota,sans-serif;
+color: black;
+}
+
+/*Adding style to elements coming from Php */
+.noteheader{
+    border: 1px solid grey;
+    font-family: bellota,sans-serif;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    cursor: pointer;
+    padding: 0 0.7rem;
+    background: linear-gradient(-180deg,#FFFFFF,#ECEAE7)
+}
+
+.text{
+font-size: 1.4rem;
+overflow: hidden;
+white-space: nowrap;
+text-overflow: ellipsis;    
+}
+
+.timetext{
+overflow: hidden;
+white-space: nowrap;
+text-overflow: ellipsis;    
+}
+
+
+</style>
