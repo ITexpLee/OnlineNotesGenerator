@@ -93,8 +93,8 @@ Some comments in the source code are course notes and therefore might not seem n
 ## Built with
 
 ## Front-end
-* [Ejs](https://ejs.co/)
-* [Ejs-mate](https://www.npmjs.com/package/ejs-mate)
+* [HTML](https://html.com/)
+* [JQuery](https://jquery.com/)
 * [Bootstrap](https://getbootstrap.com)
 
 ## Back-end
