@@ -18,13 +18,11 @@ A PHP & MySqli web application project from the Udemy course - <a href="https://
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <!-- <li><a href="#license">License</a></li> -->
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -67,22 +65,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
   ```sh
   git clone https://github.com/Anunay-Anand/OnlineNotesGenerator.git
   ```
-
-### Installation
-
-Install dependencies
-
-```
-npm install
-```
-
-or
-
-```
-yarn install
-```
-
-
 <!-- USAGE EXAMPLES -->
 
 ## Comments in code
