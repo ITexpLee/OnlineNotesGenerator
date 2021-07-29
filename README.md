@@ -98,21 +98,11 @@ Some comments in the source code are course notes and therefore might not seem n
 * [Bootstrap](https://getbootstrap.com)
 
 ## Back-end
-* [Node.js](https://nodejs.org/en/)
-* [Express.js](https://expressjs.com/)
-* [Mongoose](https://mongoosejs.com/)
-* [MongoDB](https://www.mongodb.com/)
-* passport
-* passport-local
-* express-session
-* method-override
-* multer
-* cloudinary
-* MapBoxGL
-* connect-flash
-* Cloudinary
-* Heroku
-
+* [PHP](https://www.php.net/)
+* [MySqli](https://www.php.net/manual/en/book.mysqli.php)
+* [Ajax](https://www.w3schools.com/xml/ajax_intro.asp)
+* [PHP Mailer](https://github.com/PHPMailer/PHPMailer)
+* [phpMyAdmin](https://www.phpmyadmin.net/)
 
 
 <!-- CONTRIBUTING -->
@@ -138,7 +128,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Your Name - [Anunay Anand](https://www.linkedin.com/in/anunay-anand/) - anunayanand@gmail.com
 
-Project Link: [https://github.com/Anunay-Anand/YelpCamp](http://cryptic-retreat-05843.herokuapp.com/)
+Project Link: [https://github.com/Anunay-Anand/OnlineNotesGenerator](https://www.youtube.com/watch?v=s-9_FkWCbTY)
 
 
 
@@ -151,5 +141,5 @@ Project Link: [https://github.com/Anunay-Anand/YelpCamp](http://cryptic-retreat-
 * [Loaders.css](https://connoratherton.com/loaders) -->
 * [Slick Carousel](https://kenwheeler.github.io/slick)
 * [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
+* [Google Fonts](https://fonts.google.com/)
 * [Font Awesome](https://fontawesome.com)
